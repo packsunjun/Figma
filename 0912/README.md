@@ -7,6 +7,7 @@
 ## 사용된 기술
 
 - Figma (UI 디자인 도구)
+- Locofy (HTML 변환 도구)
 
 ## Figma 설치 및 사용법
 
