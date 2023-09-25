@@ -2,7 +2,7 @@
 
 ## 페이지 미리보기
 
-[여기에 페이지 링크를 삽입하세요](링크 주소)
+[https://packsunjun.github.io/cordova/0926/index.html](링크 주소)
 
 ## 사용된 기술
 
